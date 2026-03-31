@@ -3,8 +3,8 @@ All code and files used in the Master's project for PHAS0097 Astrophysics Projec
 
 ## Contents
 - [Code](https://github.com/jbostock03/ucl-msci-cepheids#Code)
-- [Data](https://github.com/jbostock03/ucl-msci-cepheids#Data)
-- [Extra Data](https://github.com/jbostock03/ucl-msci-cepheids#Extra%20Data)
+- [Datasets](https://github.com/jbostock03/ucl-msci-cepheids#Datasets)
+- [Extras](https://github.com/jbostock03/ucl-msci-cepheids#Extras)
 - [Figures](https://github.com/jbostock03/ucl-msci-cepheids#Figures)
 - [Acknowledgements](https://github.com/jbostock03/ucl-msci-cepheids#Acknowledgements)
 
@@ -23,7 +23,7 @@ Available are all .py and .pynb files used in the project:
 
 **`riess_copy.py`**: Least squares fit using 1/p distance estimator and DR2 data
 
-## Data
+## Datasets
 Available are all datasets used in the project in .csv format:
 
 **`incl. l and b-result.csv`**: Full dataset of 13 077 DR3 Cepheids used including latitudes and longitudes
@@ -32,8 +32,8 @@ Available are all datasets used in the project in .csv format:
 
 **`xmatch_riess_col_corr_gaia_source-result.csv`**: Cross-matched result from the _Gaia_ Archive between the above two datasets. ADQL queries used for these are in Appendix A in the report.
 
-## Extra Data
-Extra data used at points in the project are located in the folder **`/extra_data/`**:
+## Extras
+Extra datasets used at points in the project are located in the folder **`/extra_data/`**:
 
 **`init_cepheids.csv`**: Small sample of Cepheids not used in the final report
 
