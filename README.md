@@ -4,7 +4,7 @@ All code and files used in the Master's project for PHAS0097 Astrophysics Projec
 ## Contents
 - [Code](https://github.com/jbostock03/ucl-msci-cepheids#Code)
 - [Data](https://github.com/jbostock03/ucl-msci-cepheids#Data)
-- [Extra Data](https://github.com/jbostock03/ucl-msci-cepheids#Extra_Data)
+- [Extra Data](https://github.com/jbostock03/ucl-msci-cepheids#Extra%20Data)
 - [Figures](https://github.com/jbostock03/ucl-msci-cepheids#Figures)
 - [Acknowledgements](https://github.com/jbostock03/ucl-msci-cepheids#Acknowledgements)
 
