@@ -11,11 +11,11 @@ All code and files used in the Master's project for PHAS0097 Astrophysics Projec
 ## Code
 Available are all .py and .pynb files used in the project:
 
-**`selection_plotting`**: _(main notebook)_ Full workflow of Bayesian distance estimation using a selection function _S_ = 1, then with MCMC sampling to deduce a sigmoid-type selection function, then redone with this. Also includes plotting for the report.
+**`selection_plotting.ipynb`**: _(main notebook)_ Full workflow of Bayesian distance estimation using a selection function _S_ = 1, then with MCMC sampling to deduce a sigmoid-type selection function, then redone with this. Also includes plotting for the report.
 
 **`flat prior.ipynb`**: Same Notebook as above but with a flat selection function used in MCMC sampling: _S_ = _S0_
 
-**`PL_relations.ipynb`**:  Plots PL relation from least squares using either Gaia DR2 or DR3 data with 1/p as a distance estimator
+**`PL_relations.py`**:  Plots PL relation from least squares using either Gaia DR2 or DR3 data with 1/p as a distance estimator
 
 **`plot_gaia_z.py`**: Plots the distribution of heights of Cepheids and a scatter plot of latitude v. longitude
 
